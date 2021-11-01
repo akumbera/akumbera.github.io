@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<div>
+Can I embed html into the markdown file?
+</div>
