@@ -10,3 +10,6 @@ function play() {
   audio.play();
 }
 
+function myalert() {
+    alert('hello!');
+}
