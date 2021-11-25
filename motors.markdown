@@ -7,7 +7,7 @@ permalink: /motor-sounds/
 
 <script>
 document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script
+</script>
 
 <input id="clickMe" type="button" value="clickme" onclick="play();" />
 <input id='alert' type='button' value='alert' onclick='myalert();' />
